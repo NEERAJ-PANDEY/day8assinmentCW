@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color: rgb(73, 67, 63);
+  color: aliceblue;
+  background-image: -moz-element();
+  border: 1px solid rgb(255, 0, 0);
+}
